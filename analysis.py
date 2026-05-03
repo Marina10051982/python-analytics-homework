@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = {"city": ["Kyiv", "Lviv", "Odesa"], "sales": [1200, 95git add analysis.py0, 500]}
+data = {"city": ["Kyiv", "Lviv", "Odesa"], "sales": [1200, 950, 500]}
 
 df = pd.DataFrame(data)
 
